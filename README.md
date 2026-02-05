@@ -1,2 +1,4 @@
+Authentication & Profile Management
 # Assignment-No.-02
-Authentication &amp; Profile Management
+## Name: Shanta Islam
+## Email: sishantaslam49@gmail.com
